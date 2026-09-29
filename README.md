@@ -1,2 +1,2 @@
 # Triangulo
-Language helper
+Language helper for Spanish, Portuguese and French. All in one
